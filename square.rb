@@ -9,7 +9,6 @@ def sqrt(number)
     return 0;
 end
 
-
 puts("The root of 25 is #{sqrt(25)}")
 puts("The root of 100 is #{sqrt(100)}")
 puts("The root of 1000000 is #{sqrt(1000000)}")
